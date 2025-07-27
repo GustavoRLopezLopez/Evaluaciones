@@ -5,7 +5,7 @@ __pycache__/
 # Ignorar datos
 *.csv
 *.parquet
-/data/
+/Colegio/data/
 /Colegio/Entregables/
 /Colegio/*.zip
 
