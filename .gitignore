@@ -7,6 +7,7 @@ __pycache__/
 *.parquet
 /data/
 /Colegio/Entregables/
+/Colegio/*.zip
 
 # Ignorar notebooks con outputs (opcional)
 *.ipynb_checkpoints/
@@ -18,3 +19,4 @@ venv/
 # Ignorar configuraciones locales
 .DS_Store
 *.log
+.fake
