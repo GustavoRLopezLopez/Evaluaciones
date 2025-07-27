@@ -5,8 +5,9 @@ __pycache__/
 # Ignorar datos
 *.csv
 *.parquet
-/data/
+/Colegio/data/
 /Colegio/Entregables/
+/Colegio/*.zip
 
 # Ignorar notebooks con outputs (opcional)
 *.ipynb_checkpoints/
@@ -18,3 +19,4 @@ venv/
 # Ignorar configuraciones locales
 .DS_Store
 *.log
+.fake
