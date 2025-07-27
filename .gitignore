@@ -1,0 +1,20 @@
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar datos
+*.csv
+*.parquet
+/data/
+/Colegio/Entregables/
+
+# Ignorar notebooks con outputs (opcional)
+*.ipynb_checkpoints/
+
+# Ignorar entornos virtuales
+venv/
+.env
+
+# Ignorar configuraciones locales
+.DS_Store
+*.log
